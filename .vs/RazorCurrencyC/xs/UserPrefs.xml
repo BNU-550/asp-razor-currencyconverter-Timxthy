@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{FC86D559-45F8-4D5E-A9B3-ED5BBE3FF67F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorCurrencyC/Pages/Error.cshtml">
+    <Files>
+      <File FileName="RazorCurrencyC/Pages/Shared/_Layout.cshtml" Line="38" Column="49" />
+      <File FileName="RazorCurrencyC/Pages/Index.cshtml" Line="17" Column="12" />
+      <File FileName="RazorCurrencyC/Pages/Index.cshtml.cs" Line="14" Column="31" />
+      <File FileName="RazorCurrencyC/Pages/_ViewStart.cshtml" />
+      <File FileName="RazorCurrencyC/Program.cs" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Startup.cs" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/CConvert.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/CConvert.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/wwwroot/css/site.css" />
+      <File FileName="RazorCurrencyC/Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorCurrencyC" expanded="True">
+            <Node name="RazorCurrencyC" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="CConvert.cshtml" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" selected="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RazorCurrencyC PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

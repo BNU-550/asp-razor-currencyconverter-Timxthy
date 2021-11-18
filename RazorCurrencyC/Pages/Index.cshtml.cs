@@ -1,15 +1,17 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
 
-namespace RazorCurrencyC.Pages
+namespace RazorCurrencyConverter.Pages
 {
     public class IndexModel : PageModel
     {
+        [BindProperty]
+        public string Password { get; set; }
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
@@ -19,7 +21,19 @@ namespace RazorCurrencyC.Pages
 
         public void OnGet()
         {
-
+            Password = "Tee Arole";
+        }
+        public void OnPost()
+        {
+            if (String.IsNullOrWhiteSpace(Password))
+            {
+                ViewData["Message"] = "Name is missing!";
+                Password = "Anonymous";
+            }
+            else
+            {
+                ViewData["Message"] = "Please check your email to validate your account!";
+            }
         }
     }
 }
