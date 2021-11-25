@@ -37,3 +37,4 @@
 /Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/Debug/net5.0/RazorCurrencyC.genruntimeconfig.cache
 /Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/Debug/net5.0/RazorCurrencyC.csproj.CopyComplete
 /Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/Debug/net5.0/Razor/Pages/CConvert.cshtml.g.cs
+/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/Debug/net5.0/Razor/Index.cshtml.g.cs

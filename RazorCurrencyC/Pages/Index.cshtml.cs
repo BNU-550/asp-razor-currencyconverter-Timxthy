@@ -11,7 +11,7 @@ namespace RazorCurrencyConverter.Pages
     public class IndexModel : PageModel
     {
         [BindProperty]
-        public string Password { get; set; }
+        public string FullName { get; set; }
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
@@ -21,14 +21,14 @@ namespace RazorCurrencyConverter.Pages
 
         public void OnGet()
         {
-            Password = "Tee Arole";
+            FullName = "Tee Arole";
         }
         public void OnPost()
         {
-            if (String.IsNullOrWhiteSpace(Password))
+            if (String.IsNullOrWhiteSpace(FullName))
             {
                 ViewData["Message"] = "Name is missing!";
-                Password = "Anonymous";
+                FullName = "Anonymous";
             }
             else
             {
