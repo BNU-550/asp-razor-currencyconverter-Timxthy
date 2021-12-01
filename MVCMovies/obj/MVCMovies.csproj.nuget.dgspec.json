@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/MVCMovies.csproj": {}
+    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/MVCMovies.csproj": {}
   },
   "projects": {
-    "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/MVCMovies.csproj": {
+    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/MVCMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/MVCMovies.csproj",
+        "projectUniqueName": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/MVCMovies.csproj",
         "projectName": "MVCMovies",
-        "projectPath": "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/MVCMovies.csproj",
+        "projectPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/MVCMovies.csproj",
         "packagesPath": "/Users/timxthy/.nuget/packages/",
-        "outputPath": "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/obj/",
+        "outputPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/timxthy/.config/NuGet/NuGet.Config"

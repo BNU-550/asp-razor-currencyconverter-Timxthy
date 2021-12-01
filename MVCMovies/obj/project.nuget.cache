@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOhPudckMm8eauapmtJwUAxw/oQ/+1A+LzCwy7XzbnMLAY2SpnT+jXDzoC4sh1onJSMd/B2Nyi9ZGt0AMCMapA==",
+  "dgSpecHash": "vBT3mahiTq43lU6L/khiN+8CqiDpt+mWbmgu95RB8bFH3ySdJvUIywkZOXZEOOfnrLFbxPsLC7+3umsilTbQWg==",
   "success": true,
-  "projectFilePath": "/Users/timxthy/Desktop/WepApp/WebApps/MVCMovies/MVCMovies.csproj",
+  "projectFilePath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/MVCMovies.csproj",
   "expectedPackageFiles": [
     "/Users/timxthy/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/timxthy/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.11/microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
