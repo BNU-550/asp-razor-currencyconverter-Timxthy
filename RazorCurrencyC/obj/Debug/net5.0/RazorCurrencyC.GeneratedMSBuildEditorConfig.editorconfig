@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = RazorCurrencyC
-build_property.ProjectDir = /Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/
+build_property.ProjectDir = /Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/

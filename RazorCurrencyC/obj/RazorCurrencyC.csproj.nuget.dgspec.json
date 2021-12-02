@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj": {}
+    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj": {}
   },
   "projects": {
-    "/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj": {
+    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj",
+        "projectUniqueName": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj",
         "projectName": "RazorCurrencyC",
-        "projectPath": "/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj",
+        "projectPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/RazorCurrencyC.csproj",
         "packagesPath": "/Users/timxthy/.nuget/packages/",
-        "outputPath": "/Users/timxthy/Desktop/WepApp/RazorCurrencyC/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/",
+        "outputPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorCurrencyC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/timxthy/.config/NuGet/NuGet.Config"
