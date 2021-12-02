@@ -14,7 +14,7 @@
         "outputPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/MVCMovies/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/timxthy/.config/NuGet/NuGet.Config"
+          "/Users/timxthy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -50,13 +50,25 @@
               "target": "Package",
               "version": "[5.0.11, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
