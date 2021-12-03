@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorMovies/RazorMovies.csproj": {}
+    "C:\\Users\\timia\\Documents\\Timxthy-WebApps\\RazorMovies\\RazorMovies.csproj": {}
   },
   "projects": {
-    "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorMovies/RazorMovies.csproj": {
+    "C:\\Users\\timia\\Documents\\Timxthy-WebApps\\RazorMovies\\RazorMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorMovies/RazorMovies.csproj",
+        "projectUniqueName": "C:\\Users\\timia\\Documents\\Timxthy-WebApps\\RazorMovies\\RazorMovies.csproj",
         "projectName": "RazorMovies",
-        "projectPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorMovies/RazorMovies.csproj",
-        "packagesPath": "/Users/timxthy/.nuget/packages/",
-        "outputPath": "/Users/timxthy/Desktop/WepApp/WebApps/asp-razor-currencyconverter-Timxthy/RazorMovies/obj/",
+        "projectPath": "C:\\Users\\timia\\Documents\\Timxthy-WebApps\\RazorMovies\\RazorMovies.csproj",
+        "packagesPath": "C:\\Users\\timia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timia\\Documents\\Timxthy-WebApps\\RazorMovies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/timxthy/.config/NuGet/NuGet.Config"
+          "C:\\Users\\timia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
